@@ -1,0 +1,51 @@
+.App{
+
+  background-color: green;
+  border: 1px solid black;
+  padding: 30px;
+}
+h1{
+  color: gold;
+}
+span{
+  width: 350px;
+  height: 50px;
+}
+
+.bttn{
+  margin-left: 180px;
+  background-color: crimson;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  margin-top:5px;
+}
+
+span{
+  color:white;
+  font-weight: bold;
+}
+
+.content{
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+button{
+  background-color: blue;
+  color: wheat;
+  font-weight: bold;
+  padding: 7px;
+  border-radius: 50px;
+}
+
+button:hover{
+  background-color: black;
+  color: gold;
+}
+
+ul li{
+  list-style: none;
+  
+}
+
